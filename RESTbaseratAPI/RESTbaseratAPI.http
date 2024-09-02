@@ -1,0 +1,6 @@
+@RESTbaseratAPI_HostAddress = http://localhost:5164
+
+GET {{RESTbaseratAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
